@@ -1,0 +1,8 @@
+[continents]
+1 Asia 5
+
+[countries]
+1 India 1
+
+[borders]
+1
