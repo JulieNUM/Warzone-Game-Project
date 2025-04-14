@@ -1,0 +1,685 @@
+{
+  "d_continents" : [ {
+    "d_ID" : 1,
+    "d_name" : "Northern Islands",
+    "d_army" : 12
+  }, {
+    "d_ID" : 2,
+    "d_name" : "Southern Islands",
+    "d_army" : 10
+  }, {
+    "d_ID" : 3,
+    "d_name" : "Yukon",
+    "d_army" : 6
+  }, {
+    "d_ID" : 4,
+    "d_name" : "Northwest Territories",
+    "d_army" : 14
+  }, {
+    "d_ID" : 5,
+    "d_name" : "British Columbia",
+    "d_army" : 7
+  }, {
+    "d_ID" : 6,
+    "d_name" : "Alberta",
+    "d_army" : 4
+  }, {
+    "d_ID" : 7,
+    "d_name" : "Saskatchewan",
+    "d_army" : 5
+  }, {
+    "d_ID" : 8,
+    "d_name" : "Manitoba",
+    "d_army" : 6
+  }, {
+    "d_ID" : 9,
+    "d_name" : "Ontario",
+    "d_army" : 5
+  }, {
+    "d_ID" : 10,
+    "d_name" : "Quebec",
+    "d_army" : 8
+  }, {
+    "d_ID" : 11,
+    "d_name" : "Newfoundland",
+    "d_army" : 5
+  }, {
+    "d_ID" : 12,
+    "d_name" : "Nova Scotia",
+    "d_army" : 2
+  }, {
+    "d_ID" : 13,
+    "d_name" : "Prince Edward Island",
+    "d_army" : 1
+  }, {
+    "d_ID" : 14,
+    "d_name" : "New Brunswick",
+    "d_army" : 2
+  } ],
+  "d_countries" : [ {
+    "d_ID" : 1,
+    "d_cID" : 1,
+    "d_name" : "c1",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 2,
+    "d_cID" : 1,
+    "d_name" : "c2",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 3,
+    "d_cID" : 1,
+    "d_name" : "c3",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 4,
+    "d_cID" : 1,
+    "d_name" : "c4",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 5,
+    "d_cID" : 1,
+    "d_name" : "c5",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 6,
+    "d_cID" : 1,
+    "d_name" : "c6",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 7,
+    "d_cID" : 1,
+    "d_name" : "c7",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 8,
+    "d_cID" : 1,
+    "d_name" : "c8",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 9,
+    "d_cID" : 1,
+    "d_name" : "c9",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 10,
+    "d_cID" : 1,
+    "d_name" : "c10",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 11,
+    "d_cID" : 1,
+    "d_name" : "c11",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 12,
+    "d_cID" : 1,
+    "d_name" : "c12",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 13,
+    "d_cID" : 2,
+    "d_name" : "c13",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 14,
+    "d_cID" : 2,
+    "d_name" : "c14",
+    "d_army" : 3,
+    "d_playerName" : "Player1"
+  }, {
+    "d_ID" : 15,
+    "d_cID" : 2,
+    "d_name" : "c15",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 16,
+    "d_cID" : 2,
+    "d_name" : "c16",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 17,
+    "d_cID" : 2,
+    "d_name" : "c17",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 18,
+    "d_cID" : 2,
+    "d_name" : "c18",
+    "d_army" : 0,
+    "d_playerName" : "Player1"
+  }, {
+    "d_ID" : 19,
+    "d_cID" : 2,
+    "d_name" : "c19",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 20,
+    "d_cID" : 2,
+    "d_name" : "c20",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 21,
+    "d_cID" : 2,
+    "d_name" : "c21",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 22,
+    "d_cID" : 2,
+    "d_name" : "c22",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 23,
+    "d_cID" : 3,
+    "d_name" : "c23",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 24,
+    "d_cID" : 3,
+    "d_name" : "c24",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 25,
+    "d_cID" : 3,
+    "d_name" : "c25",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 26,
+    "d_cID" : 3,
+    "d_name" : "c26",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 27,
+    "d_cID" : 3,
+    "d_name" : "c27",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 28,
+    "d_cID" : 3,
+    "d_name" : "c28",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 29,
+    "d_cID" : 4,
+    "d_name" : "c29",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 30,
+    "d_cID" : 4,
+    "d_name" : "c30",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 31,
+    "d_cID" : 4,
+    "d_name" : "c31",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 32,
+    "d_cID" : 4,
+    "d_name" : "c32",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 34,
+    "d_cID" : 4,
+    "d_name" : "c34",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 35,
+    "d_cID" : 4,
+    "d_name" : "c35",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 36,
+    "d_cID" : 4,
+    "d_name" : "c36",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 37,
+    "d_cID" : 4,
+    "d_name" : "c37",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 38,
+    "d_cID" : 4,
+    "d_name" : "c38",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 39,
+    "d_cID" : 4,
+    "d_name" : "c39",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 40,
+    "d_cID" : 4,
+    "d_name" : "c40",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 41,
+    "d_cID" : 4,
+    "d_name" : "c41",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 42,
+    "d_cID" : 4,
+    "d_name" : "c42",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 43,
+    "d_cID" : 4,
+    "d_name" : "c43",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 44,
+    "d_cID" : 5,
+    "d_name" : "c44",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 45,
+    "d_cID" : 5,
+    "d_name" : "c45",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 46,
+    "d_cID" : 5,
+    "d_name" : "c46",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 47,
+    "d_cID" : 5,
+    "d_name" : "c47",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 48,
+    "d_cID" : 5,
+    "d_name" : "c48",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 49,
+    "d_cID" : 5,
+    "d_name" : "c49",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 50,
+    "d_cID" : 5,
+    "d_name" : "c50",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 51,
+    "d_cID" : 6,
+    "d_name" : "c51",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 52,
+    "d_cID" : 6,
+    "d_name" : "c52",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 53,
+    "d_cID" : 6,
+    "d_name" : "c53",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 54,
+    "d_cID" : 6,
+    "d_name" : "c54",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 55,
+    "d_cID" : 7,
+    "d_name" : "c55",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 56,
+    "d_cID" : 7,
+    "d_name" : "c56",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 57,
+    "d_cID" : 7,
+    "d_name" : "c57",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 58,
+    "d_cID" : 7,
+    "d_name" : "c58",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 59,
+    "d_cID" : 7,
+    "d_name" : "c59",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 60,
+    "d_cID" : 8,
+    "d_name" : "c60",
+    "d_army" : 0,
+    "d_playerName" : "Player3"
+  }, {
+    "d_ID" : 61,
+    "d_cID" : 8,
+    "d_name" : "c61",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 62,
+    "d_cID" : 8,
+    "d_name" : "c62",
+    "d_army" : 0,
+    "d_playerName" : "Player3"
+  }, {
+    "d_ID" : 63,
+    "d_cID" : 8,
+    "d_name" : "c63",
+    "d_army" : 2,
+    "d_playerName" : "Player3"
+  }, {
+    "d_ID" : 64,
+    "d_cID" : 8,
+    "d_name" : "c64",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 65,
+    "d_cID" : 8,
+    "d_name" : "c65",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 66,
+    "d_cID" : 9,
+    "d_name" : "c66",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 67,
+    "d_cID" : 9,
+    "d_name" : "c67",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 68,
+    "d_cID" : 9,
+    "d_name" : "c68",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 69,
+    "d_cID" : 9,
+    "d_name" : "c69",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 70,
+    "d_cID" : 9,
+    "d_name" : "c70",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 71,
+    "d_cID" : 10,
+    "d_name" : "c71",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 72,
+    "d_cID" : 10,
+    "d_name" : "c72",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 73,
+    "d_cID" : 10,
+    "d_name" : "c73",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 74,
+    "d_cID" : 10,
+    "d_name" : "c74",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 75,
+    "d_cID" : 10,
+    "d_name" : "c75",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 76,
+    "d_cID" : 10,
+    "d_name" : "c76",
+    "d_army" : 0,
+    "d_playerName" : "Player2"
+  }, {
+    "d_ID" : 77,
+    "d_cID" : 10,
+    "d_name" : "c77",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 78,
+    "d_cID" : 10,
+    "d_name" : "c78",
+    "d_army" : 0,
+    "d_playerName" : "Player2"
+  }, {
+    "d_ID" : 79,
+    "d_cID" : 11,
+    "d_name" : "c79",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 80,
+    "d_cID" : 11,
+    "d_name" : "c80",
+    "d_army" : 0,
+    "d_playerName" : "Player2"
+  }, {
+    "d_ID" : 81,
+    "d_cID" : 11,
+    "d_name" : "c81",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 82,
+    "d_cID" : 11,
+    "d_name" : "c82",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 83,
+    "d_cID" : 11,
+    "d_name" : "c83",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 84,
+    "d_cID" : 12,
+    "d_name" : "c84",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 85,
+    "d_cID" : 12,
+    "d_name" : "c85",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 86,
+    "d_cID" : 13,
+    "d_name" : "c86",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 87,
+    "d_cID" : 14,
+    "d_name" : "c87",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  }, {
+    "d_ID" : 88,
+    "d_cID" : 14,
+    "d_name" : "c88",
+    "d_army" : 2,
+    "d_playerName" : "Neutral"
+  } ],
+  "d_adjacencyList" : {
+    "1" : [ 2, 12 ],
+    "2" : [ 1, 3 ],
+    "3" : [ 2, 4 ],
+    "4" : [ 3, 5 ],
+    "5" : [ 4, 6 ],
+    "6" : [ 5, 7 ],
+    "7" : [ 6, 8 ],
+    "8" : [ 7, 9, 22 ],
+    "9" : [ 8, 10 ],
+    "10" : [ 9, 11, 12 ],
+    "11" : [ 10 ],
+    "12" : [ 1, 10, 14 ],
+    "13" : [ 14 ],
+    "14" : [ 12, 13, 15, 16, 18, 42 ],
+    "15" : [ 14, 16, 77 ],
+    "16" : [ 14, 15 ],
+    "17" : [ 21, 40 ],
+    "18" : [ 14, 19, 42 ],
+    "19" : [ 18, 21 ],
+    "20" : [ 21 ],
+    "21" : [ 17, 19, 20, 22, 31 ],
+    "22" : [ 8, 21, 30 ],
+    "23" : [ 24, 25, 29 ],
+    "24" : [ 23, 25, 26, 27 ],
+    "25" : [ 23, 24, 26, 29, 30 ],
+    "26" : [ 24, 25, 27, 28, 32 ],
+    "27" : [ 24, 26, 28, 44 ],
+    "28" : [ 26, 27, 34, 44, 45 ],
+    "29" : [ 23, 25, 30 ],
+    "30" : [ 22, 25, 29, 31, 32 ],
+    "31" : [ 21, 30, 37 ],
+    "32" : [ 26, 30, 34, 36 ],
+    "34" : [ 28, 32, 35, 45, 53, 54 ],
+    "35" : [ 34, 38, 39, 54, 55 ],
+    "36" : [ 32, 37 ],
+    "37" : [ 31, 36, 38, 40 ],
+    "38" : [ 35, 37, 39, 40, 45 ],
+    "39" : [ 35, 38, 40, 55, 65 ],
+    "40" : [ 17, 37, 38, 39, 41, 42 ],
+    "41" : [ 40, 42, 43 ],
+    "42" : [ 14, 18, 40, 41 ],
+    "43" : [ 41 ],
+    "44" : [ 27, 28, 45, 46 ],
+    "45" : [ 28, 34, 38, 44, 46, 53 ],
+    "46" : [ 44, 45, 48, 49 ],
+    "47" : [ 48 ],
+    "48" : [ 46, 47, 49 ],
+    "49" : [ 46, 48, 50, 52 ],
+    "50" : [ 49, 51 ],
+    "51" : [ 50, 52, 57 ],
+    "52" : [ 49, 51, 53, 54, 56 ],
+    "53" : [ 34, 45, 52, 54 ],
+    "54" : [ 34, 35, 52, 53, 55 ],
+    "55" : [ 35, 39, 54, 56, 65 ],
+    "56" : [ 52, 55, 57, 58, 59, 64, 65 ],
+    "57" : [ 51, 56, 58 ],
+    "58" : [ 56, 57, 59 ],
+    "59" : [ 56, 58, 60, 64 ],
+    "60" : [ 59, 61, 62, 64 ],
+    "61" : [ 60, 62, 64 ],
+    "62" : [ 60, 67, 63, 61 ],
+    "63" : [ 62, 64, 65, 66 ],
+    "64" : [ 56, 59, 60, 61, 63, 65 ],
+    "65" : [ 39, 55, 56, 63, 64 ],
+    "66" : [ 63, 67, 68 ],
+    "67" : [ 62, 66, 69 ],
+    "68" : [ 66, 69 ],
+    "69" : [ 67, 68, 70, 71 ],
+    "70" : [ 69, 71 ],
+    "71" : [ 69, 70, 72, 73 ],
+    "72" : [ 71, 87 ],
+    "73" : [ 71, 74, 75 ],
+    "74" : [ 73, 75, 80, 81, 82 ],
+    "75" : [ 73, 74, 76, 80 ],
+    "76" : [ 75, 77, 78, 80 ],
+    "77" : [ 15, 76 ],
+    "78" : [ 76, 79, 80 ],
+    "79" : [ 78, 80, 81 ],
+    "80" : [ 74, 75, 76, 78, 79, 81 ],
+    "81" : [ 74, 79, 80, 82 ],
+    "82" : [ 74, 81, 83 ],
+    "83" : [ 82, 84 ],
+    "84" : [ 83, 85 ],
+    "85" : [ 84, 86, 88 ],
+    "86" : [ 85 ],
+    "87" : [ 72, 88 ],
+    "88" : [ 85, 87 ]
+  },
+  "d_mapType" : "CONQUEST",
+  "d_players" : [ {
+    "d_name" : "Player1",
+    "d_behavior" : "Human",
+    "d_cards" : [ ]
+  }, {
+    "d_name" : "Player3",
+    "d_behavior" : "Random",
+    "d_cards" : [ "DIPLOMACY" ]
+  }, {
+    "d_name" : "Player2",
+    "d_behavior" : "Aggressive",
+    "d_cards" : [ "AIRLIFT" ]
+  } ]
+}
