@@ -1,0 +1,104 @@
+[Continents]
+1 Northern Islands=12
+2 Southern Islands=10
+3 Yukon=6
+4 Northwest Territories=14
+5 British Columbia=7
+6 Alberta=4
+7 Saskatchewan=5
+8 Manitoba=6
+9 Ontario=5
+10 Quebec=8
+11 Newfoundland=5
+12 Nova Scotia=2
+13 Prince Edward Island=1
+14 New Brunswick=2
+
+[Territories]
+1,c1,Northern Islands,2,12
+2,c2,Northern Islands,1,3
+3,c3,Northern Islands,2,4
+4,c4,Northern Islands,3,5
+5,c5,Northern Islands,4,6
+6,c6,Northern Islands,5,7
+7,c7,Northern Islands,6,8
+8,c8,Northern Islands,7,9,22
+9,c9,Northern Islands,8,10
+10,c10,Northern Islands,9,11,12
+11,c11,Northern Islands,10
+12,c12,Northern Islands,1,10,14
+13,c13,Southern Islands,14
+14,c14,Southern Islands,12,13,15,16,18,42
+15,c15,Southern Islands,14,16,77
+16,c16,Southern Islands,14,15
+17,c17,Southern Islands,21,40
+18,c18,Southern Islands,14,19,42
+19,c19,Southern Islands,18,21
+20,c20,Southern Islands,21
+21,c21,Southern Islands,17,19,20,22,31
+22,c22,Southern Islands,8,21,30
+23,c23,Yukon,24,25,29
+24,c24,Yukon,23,25,26,27
+25,c25,Yukon,23,24,26,29,30
+26,c26,Yukon,24,25,27,28,32
+27,c27,Yukon,24,26,28,44
+28,c28,Yukon,26,27,34,44,45
+29,c29,Northwest Territories,23,25,30
+30,c30,Northwest Territories,22,25,29,31,32
+31,c31,Northwest Territories,21,30,37
+32,c32,Northwest Territories,26,30,34,36
+34,c34,Northwest Territories,28,32,35,45,53,54
+35,c35,Northwest Territories,34,38,39,54,55
+36,c36,Northwest Territories,32,37
+37,c37,Northwest Territories,31,36,38,40
+38,c38,Northwest Territories,35,37,39,40,45
+39,c39,Northwest Territories,35,38,40,55,65
+40,c40,Northwest Territories,17,37,38,39,41,42
+41,c41,Northwest Territories,40,42,43
+42,c42,Northwest Territories,14,18,40,41
+43,c43,Northwest Territories,41
+44,c44,British Columbia,27,28,45,46
+45,c45,British Columbia,28,34,38,44,46,53
+46,c46,British Columbia,44,45,48,49
+47,c47,British Columbia,48
+48,c48,British Columbia,46,47,49
+49,c49,British Columbia,46,48,50,52
+50,c50,British Columbia,49,51
+51,c51,Alberta,50,52,57
+52,c52,Alberta,49,51,53,54,56
+53,c53,Alberta,34,45,52,54
+54,c54,Alberta,34,35,52,53,55
+55,c55,Saskatchewan,35,39,54,56,65
+56,c56,Saskatchewan,52,55,57,58,59,64,65
+57,c57,Saskatchewan,51,56,58
+58,c58,Saskatchewan,56,57,59
+59,c59,Saskatchewan,56,58,60,64
+60,c60,Manitoba,59,61,62,64
+61,c61,Manitoba,60,62,64
+62,c62,Manitoba,60,61,63,67
+63,c63,Manitoba,62,64,65,66
+64,c64,Manitoba,56,59,60,61,63,65
+65,c65,Manitoba,39,55,56,63,64
+66,c66,Ontario,63,67,68
+67,c67,Ontario,62,66,69
+68,c68,Ontario,66,69
+69,c69,Ontario,67,68,70,71
+70,c70,Ontario,69,71
+71,c71,Quebec,69,70,72,73
+72,c72,Quebec,71,87
+73,c73,Quebec,71,74,75
+74,c74,Quebec,73,75,80,81,82
+75,c75,Quebec,73,74,76,80
+76,c76,Quebec,75,77,78,80
+77,c77,Quebec,15,76
+78,c78,Quebec,76,79,80
+79,c79,Newfoundland,78,80,81
+80,c80,Newfoundland,74,75,76,78,79,81
+81,c81,Newfoundland,74,79,80,82
+82,c82,Newfoundland,74,81,83
+83,c83,Newfoundland,82,84
+84,c84,Nova Scotia,83,85
+85,c85,Nova Scotia,84,86,88
+86,c86,Prince Edward Island,85
+87,c87,New Brunswick,72,88
+88,c88,New Brunswick,85,87

@@ -1,0 +1,6 @@
+[continents]
+1 North America 5
+
+[countries]
+
+[borders]
